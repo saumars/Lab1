@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Updating the same in User2
+=======
+New items updated in user1
+>>>>>>> f425fc32e8e7ddb6de291d1c29226e0b60197d08
+
+again updating
